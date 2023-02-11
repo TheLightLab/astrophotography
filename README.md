@@ -1,1 +1,3 @@
-# astrophotography
+# AstroPhotography
+
+My astrophotography setup
