@@ -1,6 +1,7 @@
 # AstroPhotography
 
-## Dwarf3 Smart Telescope
+## [Dwarf3 Smart Telescope](https://dwarflab.com/)
+Images might need a second or two to load.
 
 #### Deep Space Objects
 
