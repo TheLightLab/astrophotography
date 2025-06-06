@@ -20,4 +20,15 @@
 | M 104 (The Sombrero Galaxy)    | 45s | 60   | Y      | 063  | N  | Astro | 2025-05-21 |
 | NGC 7000 (North America Nebula)| 60s | 60   | Y      | 064  | N  | Duo-Band | 2025-05-31 |
 
+---
 
+#### Solar System Objects
+
+| Object | Exp        | Gain | Equitorial | Images | Mosaic | Filter | Date       |
+| ------ | ---------- | ---- | ---------- | ------ | ------ | ------ | ---------- |
+| Moon   | 0.002s     | 20   | N          | 150    | N      | Astro  | 2025-05-07 |
+| Moon   | 0.004s     | 0    | N          | 100    | N      | Vis    | 2025-05-09 |
+| Moon   | 0.0015625s | 2    | N          | 215    | N      | Vis    | 2025-05-11 |
+| Sun    | 0.001s     | 2    | N          | 300    | N      | Vis    | 2025-05-07 |
+
+---
