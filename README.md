@@ -27,10 +27,10 @@ Images might need a second or two to load.
 
 | Object | Exp        | Gain | Equitorial | Images | Mosaic | Filter | Date       |
 | ------ | ---------- | ---- | ---------- | ------ | ------ | ------ | ---------- |
-| Moon   | 0.002s     | 20   | N          | 150    | N      | Astro  | 2025-05-07 |
-| Moon   | 0.004s     | 0    | N          | 100    | N      | Vis    | 2025-05-09 |
-| Moon   | 0.0015625s | 2    | N          | 215    | N      | Vis    | 2025-05-11 |
-| Sun    | 0.001s     | 2    | N          | 300    | N      | Vis    | 2025-05-07 |
+| Moon   | 1/500 s     | 20   | N          | 150    | N      | Astro  | 2025-05-07 |
+| Moon   | 1/250 s     | 0    | N          | 100    | N      | Vis    | 2025-05-09 |
+| Moon   | 1/640 s | 2    | N          | 215    | N      | Vis    | 2025-05-11 |
+| Sun    | 1/1000 s     | 2    | N          | 300    | N      | Vis    | 2025-05-07 |
 
 ---
 
