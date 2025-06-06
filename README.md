@@ -1,3 +1,4 @@
 # AstroPhotography
 
-My astrophotography setup
+## Dwarf3 Smart Telescope
+
