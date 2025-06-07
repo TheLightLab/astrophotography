@@ -8,7 +8,7 @@ Images might need a second or two to load.
 | Object                         | Exp | Gain | Equatorial | Images  | Mosaic | Filter    | Date           | Astrometry Solved | 
 | ------------------------------ | --- | ---- | ---------- | ------- | ------ | --------- | -------------- | --- |
 | [HD 98388 (The Leo's Triplet)](./dwarf3smarttelescope/AK_HD98388_53stack_60s_60gain_astro_eq_05212025.png) | 60s | 60 | Y | 053  | N  | Astro | 2025-05-21 | [Link](https://nova.astrometry.net/user_images/12789762#annotated) |
-| [M 13 (The Hercules Cluster)](./dwarf3smarttelescope/AK_M13_31stack_30s_60gain_astro_eq_05212025.png) | 30s | 60 | Y | 031  | N  | Astro | 2025-05-21 | |
+| [M 13 (The Hercules Cluster)](./dwarf3smarttelescope/AK_M13_31stack_30s_60gain_astro_eq_05212025.png) | 30s | 60 | Y | 031  | N  | Astro | 2025-05-21 | [Link](https://nova.astrometry.net/user_images/12789902#annotated) |
 | [M 51 (The Whirlpool Galaxy)](./dwarf3smarttelescope/AK_M51_31stack_30s_60gain_astro_eq_05212025.png) | 30s | 60 | Y | 031  | N  | Astro | 2025-05-21 | |
 | [M 51 (The Whirlpool Galaxy)](./dwarf3smarttelescope/AK_M51_72stack_45s_60gain_astro_eq_05212025.png) | 45s | 60 | Y | 072  | N  | Astro | 2025-05-21 | |
 | [M 51 (The Whirlpool Galaxy)](./dwarf3smarttelescope/AK_M51_116stack_60s_60gain_astro_eq_05302025.png) | 60s | 60 | Y | 116  | N  | Astro | 2025-05-30 | [Link](https://nova.astrometry.net/user_images/12789690#annotated) |
