@@ -44,7 +44,7 @@ Images might need a second or two to load.
 
 #### Mega Stack (Dwarf3)
 | Object | Total Images | Astrometry Solved |
-|--------|-------------------|
+|--------|-------------------|---|
 | [M 51 (The Whirlpool Galaxy)](./dwarf3smarttelescope/AK_M51_megastack221.png) | 221  | [Link](https://nova.astrometry.net/user_images/12803800#annotated) |
 | [M 81 (The Bode's Galaxy)](./dwarf3smarttelescope/AK_M81_megastack357.png) | 357 | [Link](https://nova.astrometry.net/user_images/12803774#annotated) |
 | [M 101 (The Pinwheel Galaxy)](./dwarf3smarttelescope/AK_M101_megastack901.png) | 901 | [Link](https://nova.astrometry.net/user_images/12803795#annotated) |
