@@ -41,3 +41,12 @@ Images might need a second or two to load.
 | [M 101 (The Pinwheel Galaxy)](./dwarf3smarttelescope/AK_M101_comparison.png) |
 
 ---
+
+#### Mega Stack (Dwarf3)
+| Object | Astrometry Solved |
+|--------|-------------------|
+| [M 51 (The Whirlpool Galaxy)]() | |
+| [M 81 (The Bode's Galaxy)]() | |
+| [M 101 (The Pinwheel Galaxy)]() | |
+
+---
