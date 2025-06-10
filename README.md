@@ -3,10 +3,10 @@
 ## Custom Setup
 | Object | Camera | Images | Date | Astrometry Solved | 
 |--------|--------|--------|------|-------------------|
-| [Comet C/2023 A3 (Tsuchinshan-ATLAS)](./fujixt20_siril/AK_CometA3_90stack_10162024.png) | Fujifilm X-T20 | 90 | 2024-10-16 | [Link](https://nova.astrometry.net/user_images/12804569#annotated)
+| [Comet C/2023 A3 (Tsuchinshan-ATLAS)](./fujixt20_siril/AK_CometA3_90stack_10162024.png) | Fujifilm X-T20 | 090 | 2024-10-16 | [Link](https://nova.astrometry.net/user_images/12804569#annotated)
 
 
-<nbsp></nbsp>
+<p></p>
 
 
 ## [Dwarf3 Smart Telescope](https://dwarflab.com/)
