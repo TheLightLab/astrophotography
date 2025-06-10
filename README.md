@@ -6,6 +6,8 @@
 | [Comet C/2023 A3 (Tsuchinshan-ATLAS)](./fujixt20_siril/AK_CometA3_90stack_10162024.png) | Fujifilm X-T20 | 90 | 2024-10-16 | [Link](https://nova.astrometry.net/user_images/12804569#annotated)
 
 
+<nbsp></nbsp>
+
 
 ## [Dwarf3 Smart Telescope](https://dwarflab.com/)
 Images might need a second or two to load.
